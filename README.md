@@ -3,6 +3,7 @@ Easy support for dynamic loading of classes stored in PPLs.
 
 
 ## Functionality
+
 ```
 - Scan PPL folder for all classes. 
   The PPL folder is the folder where the PPL built from this project resides, 
@@ -14,6 +15,7 @@ Easy support for dynamic loading of classes stored in PPLs.
 - Get Members of a class, get hierarchy of a class, get if a class is an interface.
 - Populate Tree, Ring and Listboxes with a class hierarchy.
 ```
+
 
 ## Installation
 Link or copy the contained PPL into the folder that contains your other PPLs.
