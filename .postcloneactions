@@ -1,2 +1,2 @@
 Action_CreateMainFolder PPL
-Action_Action_LinkContentStructureToFolder target=PPL;exclusions=README.md;LICENSE
+Action_LinkContentStructureToFolder target=PPL;exclusions=README.md;LICENSE
